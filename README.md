@@ -1,7 +1,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ##Note Taker
+  # Note Taker
 
   ## Table of Contents
   * [Title](#title)
